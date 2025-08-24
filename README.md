@@ -1,4 +1,4 @@
-# user-authentication-service
+# User Authentication Service
 A microservice responsible for handling user authentication, authorization, and session management for Walmart's e-commerce platform.
 
 ## Features
